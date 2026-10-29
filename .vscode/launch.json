@@ -1,0 +1,34 @@
+  {
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "1. Debug Backend (Express + Vector DB)",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/backend/src/server.js",
+      "cwd": "${workspaceFolder}/backend",
+      "console": "integratedTerminal",
+      "restart": true,
+      "env": {
+        "PORT": "5000",
+        "NODE_ENV": "development"
+      }
+    },
+    {
+      "name": "2. Launch Frontend in Chrome",
+      "type": "chrome",
+      "request": "launch",
+      "url": "http://localhost:5173",
+      "webRoot": "${workspaceFolder}/frontend/src"
+    }
+  ],
+  "compounds": [
+    {
+      "name": "Full Stack: Debug Backend + Open Frontend",
+      "configurations": [
+        "1. Debug Backend (Express + Vector DB)",
+        "2. Launch Frontend in Chrome"
+      ]
+    }
+  ]
+}

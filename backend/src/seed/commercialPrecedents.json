@@ -1,0 +1,169 @@
+[
+  {
+    "title": "Energy Infra Corp v. Global Gas Transporters Ltd",
+    "citation": "(2022) 4 SCC 342",
+    "court": "Supreme Court of India (Commercial Division)",
+    "year": 2022,
+    "disputeCategory": "Breach of Contract",
+    "facts": "A 15-year long-term Gas Sale Agreement had a take-or-pay obligation. Due to international sanctions and sudden price escalation of 300%, the buyer failed to lift the contracted volume of LNG and invoked Force Majeure and frustration of contract under Section 56 of the Indian Contract Act.",
+    "keyIssues": [
+      "Whether onerous commercial difficulty or steep price escalation constitutes frustration of contract under Section 56.",
+      "Whether the Force Majeure clause can be invoked when contract performance is economically unviable but physically possible."
+    ],
+    "ratioDecidendi": "A mere rise in prices or economic hardship does not frustrate a commercial contract. Commercial contracts inherently carry market fluctuation risks. Section 56 applies only when the very substratum of the contract is destroyed or performance becomes physically/legally impossible.",
+    "statutesCited": [
+      "Indian Contract Act 1872 - Section 56 (Agreement to do impossible act)",
+      "Indian Contract Act 1872 - Section 32 (Enforcement of contingent contracts)",
+      "Commercial Courts Act 2015 - Section 2(1)(c)"
+    ],
+    "rulingOutcome": "Dismissed Buyer's Plea; Damages Awarded to Seller",
+    "commercialPrinciples": [
+      "Economic unviability is not Frustration of Contract",
+      "Strict construction of Force Majeure notice timelines",
+      "Sanctity of Take-or-Pay clauses in commercial energy contracts"
+    ]
+  },
+  {
+    "title": "Kailash Metro Buildcon v. National Highway Development Authority",
+    "citation": "(2020) 8 SCC 189",
+    "court": "Supreme Court of India",
+    "year": 2020,
+    "disputeCategory": "Liquidated Damages & Construction",
+    "facts": "Government authority terminated an EPC highway construction contract citing 90 days delay and forfeited the earnest money deposit and performance bank guarantee claiming pre-estimated liquidated damages under Clause 44 without proving actual financial loss suffered.",
+    "keyIssues": [
+      "Whether liquidated damages under Section 74 can be recovered without proving actual injury or loss.",
+      "Whether earnest money deposit can be forfeited arbitrarily when no loss was caused."
+    ],
+    "ratioDecidendi": "Where damage or loss is capable of proof, reasonable compensation only can be awarded under Section 74 up to the liquidated damages ceiling, but actual loss must be demonstrated. Liquidated damages cannot be an automatic penalty without proof of injury unless it is impossible to calculate exact loss.",
+    "statutesCited": [
+      "Indian Contract Act 1872 - Section 74 (Compensation for breach of contract where penalty stipulated)",
+      "Indian Contract Act 1872 - Section 73 (Compensation for loss or damage caused by breach)"
+    ],
+    "rulingOutcome": "Allowed in part; Forfeiture set aside for lack of proof of loss",
+    "commercialPrinciples": [
+      "Distinction between liquidated damages and penalty",
+      "Requirement to prove actual loss when measurable",
+      "Unreasonable forfeiture violates doctrine of fairness"
+    ]
+  },
+  {
+    "title": "Apex Telecom Consortium v. Zenith Satellites BV",
+    "citation": "2023 SCC OnLine SC 892",
+    "court": "Supreme Court of India (Commercial Appellate Division)",
+    "year": 2023,
+    "disputeCategory": "Commercial Arbitration",
+    "facts": "In an international commercial dispute with seat in New Delhi, the arbitral tribunal awarded $42 million in consequential lost profits. The respondent challenged the arbitral award under Section 34 of the Arbitration and Conciliation Act on the grounds of patent illegality and violation of public policy.",
+    "keyIssues": [
+      "Scope of judicial interference under Section 34 against domestic and international awards.",
+      "Whether award of consequential damages in violation of express contractual exclusion is patently illegal."
+    ],
+    "ratioDecidendi": "Courts sitting under Section 34 do not sit in appeal over an arbitrator's factual findings. However, when an arbitral tribunal rewrites the contract or grants relief expressly prohibited by the contract terms (e.g. explicit waiver of consequential damages), the award suffers from patent illegality and contravenes fundamental policy of Indian law.",
+    "statutesCited": [
+      "Arbitration and Conciliation Act 1996 - Section 34 (Application for setting aside arbitral award)",
+      "Arbitration and Conciliation Act 1996 - Section 28(3) (Tribunal to decide in terms of contract)",
+      "Commercial Courts Act 2015 - Section 10"
+    ],
+    "rulingOutcome": "Award partially set aside regarding consequential damages",
+    "commercialPrinciples": [
+      "Arbitrator is bound by contractual limitation of liability clauses",
+      "Patent illegality threshold under Section 34",
+      "Separability of arbitration agreement from underlying contract"
+    ]
+  },
+  {
+    "title": "Matrix Cybernetics Pvt Ltd v. Nexus Enterprise Cloud Ltd",
+    "citation": "2021 (86) PTC 412 (Del)",
+    "court": "Delhi High Court (Commercial Division)",
+    "year": 2021,
+    "disputeCategory": "IP & Trade Secrets",
+    "facts": "A SaaS enterprise vendor terminated a strategic reseller partnership. Reseller reverse-engineered proprietary enterprise API schemas and solicited enterprise banking clients using confidential customer pricing lists in violation of a 3-year non-compete and non-disclosure agreement.",
+    "keyIssues": [
+      "Enforceability of negative covenants and non-compete clauses under Section 27 of Contract Act.",
+      "Grant of ad-interim ex-parte injunction against misuse of proprietary trade secrets."
+    ],
+    "ratioDecidendi": "Post-term restrictive covenants that restrain a party from carrying on lawful profession or trade are void under Section 27. However, protection of confidential trade secrets, client databases, and proprietary source materials is absolute and will be protected through interim injunction even post-termination.",
+    "statutesCited": [
+      "Indian Contract Act 1872 - Section 27 (Agreement in restraint of trade, void)",
+      "Specific Relief Act 1963 - Section 38 & 39 (Permanent injunctions)",
+      "Code of Civil Procedure 1908 - Order 39 Rules 1 & 2"
+    ],
+    "rulingOutcome": "Injunction granted restraining misuse of confidential trade secrets",
+    "commercialPrinciples": [
+      "Trade secret confidentiality survives contract expiration",
+      "Post-contract non-compete is void under Section 27",
+      "Balance of convenience in intellectual property trade secrets"
+    ]
+  },
+  {
+    "title": "Starlight Heavy Engineering v. State Bank & Larsen Metals",
+    "citation": "(2019) 15 SCC 210",
+    "court": "Supreme Court of India",
+    "year": 2019,
+    "disputeCategory": "Banking & Financial Debt",
+    "facts": "Petitioner sought an injunction against the encashment of an unconditional irrevocable Bank Guarantee of Rs. 48 Crores issued in a turnkey manufacturing dispute, alleging breach of contract by the beneficiary and fraudulent misrepresentation of milestone completion.",
+    "keyIssues": [
+      "Under what circumstances can a commercial court grant an injunction restraining invocation of an unconditional bank guarantee.",
+      "Standard of establishing egregious fraud and irretrievable injustice."
+    ],
+    "ratioDecidendi": "An unconditional bank guarantee is an independent commercial contract between the bank and beneficiary. Courts will not restrain encashment unless two narrow exceptions are strictly satisfied: (1) Established egregious fraud of which the bank has notice, or (2) Irretrievable harm/special equity of an exceptional magnitude.",
+    "statutesCited": [
+      "Indian Contract Act 1872 - Section 126 (Contract of guarantee)",
+      "Specific Relief Act 1963 - Section 41 (Injunction when refused)"
+    ],
+    "rulingOutcome": "Injunction refused; Bank directed to honor guarantee",
+    "commercialPrinciples": [
+      "Independence of bank guarantees from underlying dispute",
+      "Very high evidentiary standard for fraud exception",
+      "Protection of commercial cashflow and financial certainty"
+    ]
+  },
+  {
+    "title": "Quantum Logistics Solutions v. Prime Retail India Ltd",
+    "citation": "2023 SCC OnLine NCLAT 441",
+    "court": "National Company Law Appellate Tribunal (NCLAT)",
+    "year": 2023,
+    "disputeCategory": "Insolvency & Bankruptcy",
+    "facts": "Operational Creditor filed Section 9 application under IBC for Rs. 14.8 Crores default for warehouse logistics services. Corporate Debtor showed prior email communications disputing damaged goods inventory, service level agreement penalty deductions, and debit notes sent prior to the Demand Notice.",
+    "keyIssues": [
+      "What constitutes a 'pre-existing dispute' under Section 8 and 9 of the Insolvency and Bankruptcy Code (IBC).",
+      "Whether IBC proceedings can be used as a recovery tool for disputed commercial accounts."
+    ],
+    "ratioDecidendi": "The IBC is not a recovery forum for disputed commercial invoices. If there exists a plausible pre-existing dispute supported by contemporaneous documents (prior to Section 8 notice), the Adjudicating Authority must reject the Section 9 petition without going into the merits of the dispute.",
+    "statutesCited": [
+      "Insolvency and Bankruptcy Code 2016 - Section 8 (Insolvency resolution by operational creditor)",
+      "Insolvency and Bankruptcy Code 2016 - Section 9 (Application for initiation of CIRP)",
+      "Insolvency and Bankruptcy Code 2016 - Section 5(6) (Definition of Dispute)"
+    ],
+    "rulingOutcome": "Section 9 Petition Dismissed due to Pre-Existing Dispute",
+    "commercialPrinciples": [
+      "IBC cannot substitute commercial summary suits or arbitration",
+      "Contemporaneous pre-notice objection establishes pre-existing dispute",
+      "Threshold of Mobilox Innovations doctrine strictly applied"
+    ]
+  },
+  {
+    "title": "Vanguard Capital Partners v. Orion Ventures Global Ltd",
+    "citation": "(2021) 9 SCC 625",
+    "court": "Supreme Court of India (Commercial Appellate Division)",
+    "year": 2021,
+    "disputeCategory": "Shareholder & Corporate",
+    "facts": "Private Equity investor held a Put Option in the Shareholders Agreement (SHA) requiring the Promoters to buy back shares at an agreed Internal Rate of Return (IRR) upon failure to achieve IPO within 5 years. Promoters contended that the assured return put option violated FEMA regulations and public policy.",
+    "keyIssues": [
+      "Enforceability of exit options and put options with contractual IRR return mechanisms under Indian corporate and foreign exchange laws.",
+      "Whether breach of shareholder covenants permits specific performance or damages."
+    ],
+    "ratioDecidendi": "Put option clauses providing an agreed exit price to non-resident investors upon default or breach of SHA covenants are legally enforceable and do not violate Section 23 of Contract Act or FEMA provided they do not guarantee assured returns without commercial risk. Specific performance of buy-out covenants can be ordered.",
+    "statutesCited": [
+      "Companies Act 2013 - Section 58 (Refusal of registration and appeal against refusal)",
+      "Specific Relief Act 1963 - Section 10 (Specific performance in respect of contracts)",
+      "Indian Contract Act 1872 - Section 23 (What considerations and objects are lawful)"
+    ],
+    "rulingOutcome": "Put Option Enforced; Specific Performance Directed",
+    "commercialPrinciples": [
+      "Enforceability of agreed exit mechanisms in Shareholders Agreements",
+      "Remedies for promoter covenant default",
+      "Commercial efficacy in joint venture agreements"
+    ]
+  }
+]
+
